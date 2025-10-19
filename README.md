@@ -6,7 +6,7 @@ The Money is not REAL!
 
 It's a bank system made in C++ using classes, but in the code, void dominances. That means that I mostly
 used voids. When u run the code, you would need to put the password to get in. The password is the date that I made
-the code in. After you entered the password, you would see 3 menus: 1. Personal Account, 2. Credit Account 3. Exit (do I need to explain this to you?)
+the code. After you entered the password, you would see 3 menus: 1. Personal Account, 2. Credit Account 3. Exit (do I need to explain this to you?)
 
 The Personal Account is you're normal account and you have in balance of 5000$ (ofc not real), you can withdraw or
 Deposit money there, and it will be saved.
